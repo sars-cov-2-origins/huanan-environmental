@@ -1,3 +1,4 @@
+### RNAseq analysis performed for the initial version of report
 #### De novo transcriptome assembly (trinityrnaseq-v2.15.1)
         Trinity --seqType fq --max_memory 50G --SS_lib_type F --CPU 10 --no_normalize_reads --single E100000803_L01_36.fq.gz --output trinity_outQ61
         Trinity --seqType fq --max_memory 50G --SS_lib_type F --CPU 10 --no_normalize_reads --single E100000803_L01_40.fq.gz --output trinity_outQ64
